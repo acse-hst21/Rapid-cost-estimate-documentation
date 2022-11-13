@@ -1,6 +1,8 @@
 # Fast Development of Cost Estimates through Machine Learning Algorithms
 
-**Please note: The following repository contains only the README file and documentation attached to the python based library *rapid_cost_estimate*. As such, no code is available publicly. The package was written in conjunction with Wintershall Dea AG, who own the licensing rights to the code. Thus, any individual who would like to make use of this software should contact Wintershall Dea AG.**
+**Please note: The following repository contains ONLY the README file and documentation attached to the python based library *rapid_cost_estimate*. In the absence of the majority of the original code, much of the functionality of this repository is limited. As such, this repository should serve as an indication as to the scope of the software, and is NOT an indication of the software's quality.  
+
+The package was written in conjunction with Wintershall Dea AG, who own the licensing rights to the code. Thus, any individual who would like to make use of this software should contact Wintershall Dea AG.**
 
 ## Project description
 
