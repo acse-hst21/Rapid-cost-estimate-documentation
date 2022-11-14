@@ -1,8 +1,10 @@
 # Fast Development of Cost Estimates through Machine Learning Algorithms
 
-**Please note: The following repository contains ONLY the README file, documentation and software report attached to the python based library *rapid_cost_estimate*. In the absence of the majority of the original code, much of the functionality of this repository is limited. As such, this repository should serve as an indication as to the scope of the software, and is NOT an indication of the software's quality.**  
+**Please note: The following repository contains ONLY the README file, documentation and software report attached to the python based library *rapid_cost_estimate*. In the absence of the majority of the code from the original repository, much of the functionality of this repository is limited. As such, this repository should serve as an indication as to the scope of the software and is NOT an indication of the software's quality.**  
 
-**The package was written in conjunction with Wintershall Dea AG, who own the licensing rights to the code. Thus, any individual who would like to make use of this software should contact Wintershall Dea AG.**
+**The package was written in conjunction with [Wintershall Dea AG](https://wintershalldea.com/en), who own the licensing rights to the code. Thus, any individual who would like to make use of this software should contact [Wintershall Dea AG](https://wintershalldea.com/en).**
+
+**For employees of Wintershall Dea who have been granted access to this software, the full code can be found at the following repository: [https://github.com/ese-msc-2021/irp-hst21](https://github.com/ese-msc-2021/irp-hst21)**
 
 ## Project description
 
